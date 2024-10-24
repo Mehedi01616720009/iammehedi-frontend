@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Technology",
+        "slug": "technology",
+        "image": "1.jpeg",
+        "createdAt": "2024-08-22T10:00:00Z",
+        "updatedAt": "2024-08-22T10:00:00Z"
+    },
+    {
+        "name": "Health & Wellness",
+        "slug": "health-wellness",
+        "image": "2.jpeg",
+        "createdAt": "2024-08-22T10:00:00Z",
+        "updatedAt": "2024-08-22T10:00:00Z"
+    },
+    {
+        "name": "Travel",
+        "slug": "travel",
+        "image": "3.jpeg",
+        "createdAt": "2024-08-22T10:00:00Z",
+        "updatedAt": "2024-08-22T10:00:00Z"
+    },
+    {
+        "name": "Food & Recipes",
+        "slug": "food-recipes",
+        "image": "4.jpeg",
+        "createdAt": "2024-08-22T10:00:00Z",
+        "updatedAt": "2024-08-22T10:00:00Z"
+    },
+    {
+        "name": "Fashion",
+        "slug": "fashion",
+        "image": "5.jpeg",
+        "createdAt": "2024-08-22T10:00:00Z",
+        "updatedAt": "2024-08-22T10:00:00Z"
+    },
+    {
+        "name": "Business",
+        "slug": "business",
+        "image": "6.jpeg",
+        "createdAt": "2024-08-22T10:00:00Z",
+        "updatedAt": "2024-08-22T10:00:00Z"
+    },
+    {
+        "name": "Lifestyle",
+        "slug": "lifestyle",
+        "image": "7.jpeg",
+        "createdAt": "2024-08-22T10:00:00Z",
+        "updatedAt": "2024-08-22T10:00:00Z"
+    },
+    {
+        "name": "Education",
+        "slug": "education",
+        "image": "8.jpeg",
+        "createdAt": "2024-08-22T10:00:00Z",
+        "updatedAt": "2024-08-22T10:00:00Z"
+    }
+]

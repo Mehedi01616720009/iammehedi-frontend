@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Technology",
+        "slug": "technology",
+        "theme": "avocado",
+        "image": "1.jpeg",
+        "createdAt": "2024-08-22T10:00:00Z",
+        "updatedAt": "2024-08-22T10:00:00Z"
+    },
+    {
+        "name": "Health & Wellness",
+        "slug": "health-wellness",
+        "theme": "pool",
+        "image": "2.jpeg",
+        "createdAt": "2024-08-22T10:00:00Z",
+        "updatedAt": "2024-08-22T10:00:00Z"
+    },
+    {
+        "name": "Travel",
+        "slug": "travel",
+        "theme": "aqua",
+        "image": "3.jpeg",
+        "createdAt": "2024-08-22T10:00:00Z",
+        "updatedAt": "2024-08-22T10:00:00Z"
+    },
+    {
+        "name": "Food & Recipes",
+        "slug": "food-recipes",
+        "theme": "irish",
+        "image": "4.jpeg",
+        "createdAt": "2024-08-22T10:00:00Z",
+        "updatedAt": "2024-08-22T10:00:00Z"
+    },
+    {
+        "name": "Fashion",
+        "slug": "fashion",
+        "theme": "sand",
+        "image": "5.jpeg",
+        "createdAt": "2024-08-22T10:00:00Z",
+        "updatedAt": "2024-08-22T10:00:00Z"
+    },
+    {
+        "name": "Business",
+        "slug": "business",
+        "theme": "cream",
+        "image": "6.jpeg",
+        "createdAt": "2024-08-22T10:00:00Z",
+        "updatedAt": "2024-08-22T10:00:00Z"
+    },
+    {
+        "name": "Lifestyle",
+        "slug": "lifestyle",
+        "theme": "peach",
+        "image": "7.jpeg",
+        "createdAt": "2024-08-22T10:00:00Z",
+        "updatedAt": "2024-08-22T10:00:00Z"
+    },
+    {
+        "name": "Education",
+        "slug": "education",
+        "theme": "rose",
+        "image": "8.jpeg",
+        "createdAt": "2024-08-22T10:00:00Z",
+        "updatedAt": "2024-08-22T10:00:00Z"
+    }
+]
